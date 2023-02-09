@@ -19,20 +19,13 @@ Year | Important work | Interesting work | good work
 
 **1.(2023.2) Structure and Content-Guided Video Synthesis with Diffusion Models**  :+1:
 
-Author: Patrick Esser, Johnathan Chiu, Parmida Atighehchian, Jonathan Granskog, Anastasis Germanidis
-
-Institutions: Runway
-
-Website: [web](https://research.runwayml.com/gen1)
-
-Paper: [arxiv](https://arxiv.org/pdf/2302.03011.pdf)
-
-Summary: Guided Video Synthesis; Latent Video Diffusion Model;
+Info: Runway, [web](https://research.runwayml.com/gen1), [arxiv](https://arxiv.org/pdf/2302.03011.pdf);  Guided Video Synthesis; Latent Video Diffusion Model;
 
 
 ## 2022
 
-
+1. (2022.9)HUMAN MOTION DIFFUSION MODEL
+Paper: [arxiv](https://arxiv.org/pdf/2209.14916.pdf)
 
 
 ### Related Works in Image-text
