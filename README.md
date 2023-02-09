@@ -25,7 +25,7 @@ Website: [web](https://research.runwayml.com/gen1)
 
 Paper: [arxiv](https://arxiv.org/pdf/2302.03011.pdf)
 
-Summary: Guided Video Synthesis.
+Summary: Guided Video Synthesis; Latent Video Diffusion Model;
 
 
 ## 2022
