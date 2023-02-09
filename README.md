@@ -32,3 +32,11 @@ Summary: Guided Video Synthesis; Latent Video Diffusion Model;
 
 
 
+
+### Related Works in Image-text
+
+1.(arxiv23.2) Zero-shot Image-to-Image Translation. (px2pix zero) https://arxiv.org/pdf/2302.03027.pdf
+
+
+2.(arxiv22.9) DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION https://arxiv.org/pdf/2209.14988.pdf
+
