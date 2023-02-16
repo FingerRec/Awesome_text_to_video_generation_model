@@ -27,6 +27,8 @@ Info: Runway, [web](https://research.runwayml.com/gen1), [arxiv](https://arxiv.o
 1. (2022.9)HUMAN MOTION DIFFUSION MODEL
 Paper: [arxiv](https://arxiv.org/pdf/2209.14916.pdf)
 
+2. (2022.5) CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers
+Paper: [arxiv](https://arxiv.org/pdf/2205.15868.pdf)
 
 ### Related Works in Image-text
 
