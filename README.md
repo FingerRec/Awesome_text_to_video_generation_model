@@ -25,13 +25,14 @@ Info: Runway, [website](https://research.runwayml.com/gen1), [arxiv](https://arx
 ## 2022
 <h3 id="22_tune_a_video"></h3>
 
-(2022.12) Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation :rocket:
+**1. (2022.12) Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation** :rocket:
+
 Info: [arxiv](https://arxiv.org/abs/2212.11565), [code](https://github.com/showlab/Tune-A-Video).
 
-(2022.9)HUMAN MOTION DIFFUSION MODEL
+2. (2022.9) HUMAN MOTION DIFFUSION MODEL
 Paper: [arxiv](https://arxiv.org/pdf/2209.14916.pdf)
 
-(2022.5) CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers
+3. (2022.5) CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers
 Paper: [arxiv](https://arxiv.org/pdf/2205.15868.pdf)
 
 ### Related Works in Image-text
