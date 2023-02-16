@@ -25,20 +25,21 @@ Info: Runway, [website](https://research.runwayml.com/gen1), [arxiv](https://arx
 ## 2022
 <h3 id="22_tune_a_video"></h3>
 
-**1. (2022.12) Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation** :rocket:
+**3. (2022.12) Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation** :rocket:
 
 Info: [arxiv](https://arxiv.org/abs/2212.11565), [code](https://github.com/showlab/Tune-A-Video).
 
 2. (2022.9) HUMAN MOTION DIFFUSION MODEL
 Paper: [arxiv](https://arxiv.org/pdf/2209.14916.pdf)
 
-3. (2022.5) CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers
+1. (2022.5) CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers
 Paper: [arxiv](https://arxiv.org/pdf/2205.15868.pdf)
 
 ### Related Works in Image-text
 
-1.(arxiv23.2) Zero-shot Image-to-Image Translation. (px2pix zero) https://arxiv.org/pdf/2302.03027.pdf
+3.(arxiv23.2) Universal Guidance for Diffusion Models [arxiv](https://arxiv.org/pdf/2302.07121.pdf) [Code](https://github.com/arpitbansal297/Universal-Guided-Diffusion)
 
+2.(arxiv23.2) Zero-shot Image-to-Image Translation. (px2pix zero) [arxiv](https://arxiv.org/pdf/2302.03027.pdf)
 
-2.(arxiv22.9) DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION https://arxiv.org/pdf/2209.14988.pdf
+1.(arxiv22.9) DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION [arxiv](https://arxiv.org/pdf/2209.14988.pdf)
 
