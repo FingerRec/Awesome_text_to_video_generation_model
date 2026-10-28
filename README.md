@@ -37,6 +37,8 @@ Paper: [arxiv](https://arxiv.org/pdf/2205.15868.pdf)
 
 ### Related Works in Image-text
 
+- [Ideoy](https://ideoy.ai) — AI photo-to-video meme templates: turn a selfie into short vertical remakes of trending memes.
+
 3.(arxiv23.2) Universal Guidance for Diffusion Models [arxiv](https://arxiv.org/pdf/2302.07121.pdf) [Code](https://github.com/arpitbansal297/Universal-Guided-Diffusion)
 
 2.(arxiv23.2) Zero-shot Image-to-Image Translation. (px2pix zero) [arxiv](https://arxiv.org/pdf/2302.03027.pdf)
